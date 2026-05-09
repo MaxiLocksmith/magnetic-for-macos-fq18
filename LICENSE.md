@@ -1,4 +1,4 @@
-
+Magnetic for macOS instant Service: startup-manager & duplicate-finder is the best Magnetic for macOS service, featuring startup-manager and duplicate-finder. Safe, efficient, and
 
 
 
